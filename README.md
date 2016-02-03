@@ -1,6 +1,6 @@
 # Spelling correction experiments
 
-Code for spelling correction experiments (especially real-word spelling errors).
+Components for real-word spelling error correction and experimental frameworks for mining such errors from the Wikipedia revision history as well as for the "Helping Our Own" shared tasks 2011 and 2012.
 
 Please use the following citations:
 
