@@ -35,15 +35,12 @@ Please use the following citations:
 	pages = {302-306},
 }
 ```
-Contact people: 
 
-* Torsten Zesch, torsten.zesch@gmail.com
+This repository is a final archived version of https://github.com/zesch/spelling-experiments. Please, contact that repository's mantainer for further information.
 
 http://www.ukp.tu-darmstadt.de/
 
 http://www.tu-darmstadt.de/
 
-
-Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
 
 > This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication. 
